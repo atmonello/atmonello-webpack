@@ -16,3 +16,5 @@ Currently includes:
 - Support for Sass/SCSS and autoprefixing CSS
 - Image loading and optimization
 - Minify JS/HTML/CSS for `production`
+
+André Monello - 2019
