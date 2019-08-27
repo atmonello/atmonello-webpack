@@ -16,5 +16,7 @@ Currently includes:
 - Support for Sass/SCSS and autoprefixing CSS
 - Image loading and optimization
 - Minify JS/HTML/CSS for `production`
+- Bootstrap 4
+> You can disable it by commenting the `bootstrap.scss` from Sass entrypoint file on /src
 
 André Monello - 2019
